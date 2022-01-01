@@ -1,0 +1,14 @@
+body
+{
+	text-align:left;
+}
+span
+{
+    font-size: 15px;
+    color: blue;
+}
+canvas
+{
+    background: yellow
+    border-radius: 20px;
+}
